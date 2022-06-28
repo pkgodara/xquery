@@ -6,6 +6,7 @@ In the `config/config.exs`, edit db `username` and `password` according to your 
 ## Apps - 
 
 `QServer` - Interface provides `exec/2` to run raw SQL queries
+
 `QClient` - Example Client using QServer to execute raw queries placed under `sql` dir
 
 
